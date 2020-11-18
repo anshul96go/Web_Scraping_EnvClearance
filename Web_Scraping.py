@@ -1,3 +1,5 @@
+# Pyhton Code to Scrap Environment Clearance Data of all the factories in India
+
 import bs4 as bs
 import urllib.request
 import numpy as np
